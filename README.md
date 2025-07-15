@@ -5,7 +5,7 @@ Modern ve kullanıcı dostu otel yönetim sistemi. Bu proje, otel işletmelerini
 ## 🌐 Canlı Demo
 
 Bu proje canlı olarak yayında! Müşteriler ve potansiyel kullanıcılar sistemi aşağıdaki linkten inceleyebilirler:
-**[Batu Hotel Management - Canlı Website](https://your-website-url.com)**
+**[Batu Hotel Management - Canlı Website](https://batu-hotel-management.vercel.app/)**
 
 ## 🚀 Özellikler
 
